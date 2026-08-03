@@ -1,5 +1,8 @@
 ---
 name: build-personal-workbench
+slug: build-personal-workbench
+displayName: 个人工作台搭建助手
+version: 1.0.0
 description: Build a personal workbench/dashboard for a non-technical user from a one-sentence idea, profession, hobby, uploaded screenshot, or daily workflow. Use when Codex should guide requirements mainly through friendly multi-select feature options, analyze a reference image to reproduce its visible style and interactions, show and let the user choose UI/style alternatives, explain a lightweight responsive H5 and desktop web implementation in plain language, build with live visual previews, use local storage or SQLite when appropriate, run unit, integration, and browser QA tests before acceptance, deploy after explicit user approval, and optionally prepare and publish the finished reusable skill to a chosen SkillHub after explicit approval.
 ---
 
